@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  /* font-family: 'poppins ', sans-serif; */
+  /* background: linear-gradient(120deg, #56CCF2, #2F80ED); */
+  /* background: linear-gradient(45deg, #20002C, #CBB4D4); */
+  /* background: linear-gradient(90deg, #FDB99B, #CF8BF3, #8E44AD); */
+  /* background: linear-gradient(93.04deg, rgba(46, 49, 145, 0.7) 0%, rgba(244, 129, 32, 0.7) 100%); */
+
+
+ 
+  /* background: linear-gradient(90deg, #00C9FF, #92FE9D); // good */
+
+  background: linear-gradient(90deg, #FFDEE9, #B5FFFC);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
