@@ -4,7 +4,7 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import react from "../assets/reactjs.png";
 import nodejs from "../assets/node.png";
-import express from "../assets/expressjs.png";
+import express from "../assets/express_logo.png";
 import mongoDB from "../assets/mongodb.jpg";
 import sql from "../assets/sql.jpeg";
 import postman from "../assets/post man.jpeg";
