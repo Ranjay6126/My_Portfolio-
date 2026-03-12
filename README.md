@@ -1,5 +1,5 @@
-s<<<<<<< HEAD
-# React + Vite
+
+# React
 
 https://my-portfolio-erdy.vercel.app/
 
@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 =======
 # My-PortFolio
 My PortFolio using MERN stack and Tailwind CSS
->>>>>>> 01e6598bd11c581bf38c109c9cd633b15729afec
+
 
 
 Portfolio Website (MERN Stack)
