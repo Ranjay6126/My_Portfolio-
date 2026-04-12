@@ -65,6 +65,6 @@ Clone the repository
 
 Install dependencies using npm install
 
-Run frontend and backend servers
+Run frontend and backend servers.
 
 Open the app in your browser.
